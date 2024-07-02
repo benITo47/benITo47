@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">Passionate applied computer science student</h3>
 
+- 🔭 I’m currently working on **Waste-Image-Classification**
+
 - 🌱 I’m currently learning **Swift**
+
+- ⚡ Fun fact **Pineapple on pizza is GOATed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
