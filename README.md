@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **Pineapple on pizza is GOATed**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
