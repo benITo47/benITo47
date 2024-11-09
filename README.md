@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building a solution for a befriended business**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Web Dev**
 
 - ⚡ Fun fact **Pineapple on pizza is GOATed**
 
