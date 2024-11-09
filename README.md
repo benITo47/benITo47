@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">Passionate applied computer science student</h3>
 
-- 🔭 I’m currently working on **Waste-Image-Classification**
+- 🔭 I’m currently working on **Building a solution for a befriended business**
 
 - 🌱 I’m currently learning **Swift**
 
