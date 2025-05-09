@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">Passionate applied computer science student</h3>
 
-- 🔭 I’m currently working on **Building a solution for a befriended business**
+- 🔭 I’m currently working 
 
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning **Vivado :torment:**
 
 - ⚡ Fun fact **Pineapple on pizza is GOATed**
 
